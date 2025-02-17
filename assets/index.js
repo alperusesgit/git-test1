@@ -130,7 +130,7 @@ const mealCloseBtn = document.getElementById("recipe-close-btn");
 
 
 //The functions will run for the button when click 
-function getRecipeDetails(){
+function get1stRecipe(){
   document.querySelector(".meal-detail").style.display ="block"
 }
 function get2ndRecipe(){
